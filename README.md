@@ -1,4 +1,5 @@
-#Cache Simulator
+# Cache Simulator
+
 Implementation of Cache Simulator
 
 LRU replacement has been used for replacement 
